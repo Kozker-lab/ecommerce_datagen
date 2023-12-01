@@ -1,0 +1,201 @@
+Unnamed: 0,ProductID,Name,CategoryID,Price,Description,StockLevel,SupplierID
+0,7174,Smartphones 58S,1,223.3,"The Smartphones 58S, a top choice in Smartphones, features state-of-the-art technology for peak performance. Ideal for both everyday and professional use.",135,44
+1,6687,Wearable Technology BJB,7,805.97,"The Wearable Technology BJB, a top choice in Wearable Technology, features energy-efficient operation. Ideal for both everyday and professional use.",13,34
+2,3246,TVs YNS,4,1464.29,"The TVs YNS, a top choice in TVs, features unmatched durability and reliability. Ideal for both everyday and professional use.",385,33
+3,8076,Smartphones SCX,1,655.6,"The Smartphones SCX, a top choice in Smartphones, features state-of-the-art technology for peak performance. Ideal for both everyday and professional use.",205,26
+4,3952,Computers 6SZ,2,790.0,"The Computers 6SZ, a top choice in Computers, features a sleek and modern design. Ideal for both everyday and professional use.",233,25
+5,584,Smartphones 1OE,1,1194.22,"The Smartphones 1OE, a top choice in Smartphones, features user-friendly interface and features. Ideal for both everyday and professional use.",161,14
+6,3962,TVs V0R,4,582.1,"The TVs V0R, a top choice in TVs, features a sleek and modern design. Ideal for both everyday and professional use.",320,96
+7,8762,Smartphones AOM,1,1070.52,"The Smartphones AOM, a top choice in Smartphones, features excellent value for the price. Ideal for both everyday and professional use.",86,1
+8,6832,Drones CNU,8,1094.28,"The Drones CNU, a top choice in Drones, features unmatched durability and reliability. Ideal for both everyday and professional use.",425,73
+9,5704,Computers P8W,2,590.77,"The Computers P8W, a top choice in Computers, features a sleek and modern design. Ideal for both everyday and professional use.",12,86
+10,4766,TVs ERU,4,143.42,"The TVs ERU, a top choice in TVs, features a sleek and modern design. Ideal for both everyday and professional use.",245,94
+11,9436,Smartphones 2VX,1,344.19,"The Smartphones 2VX, a top choice in Smartphones, features energy-efficient operation. Ideal for both everyday and professional use.",417,34
+12,8746,Drones 4TL,8,236.28,"The Drones 4TL, a top choice in Drones, features portable and lightweight design for convenience. Ideal for both everyday and professional use.",77,39
+13,6970,TVs 5VG,4,1322.29,"The TVs 5VG, a top choice in TVs, features an ergonomic design for ease of use. Ideal for both everyday and professional use.",147,47
+14,2949,Smartphones GE8,1,1392.35,"The Smartphones GE8, a top choice in Smartphones, features unmatched durability and reliability. Ideal for both everyday and professional use.",26,67
+15,4500,Gaming Consoles EL9,5,748.89,"The Gaming Consoles EL9, a top choice in Gaming Consoles, features a sleek and modern design. Ideal for both everyday and professional use.",341,1
+16,2226,Smartphones G7B,1,1315.98,"The Smartphones G7B, a top choice in Smartphones, features energy-efficient operation. Ideal for both everyday and professional use.",345,22
+17,8188,Smartphones CNE,1,267.66,"The Smartphones CNE, a top choice in Smartphones, features energy-efficient operation. Ideal for both everyday and professional use.",375,95
+18,485,Drones IPE,8,333.43,"The Drones IPE, a top choice in Drones, features unmatched durability and reliability. Ideal for both everyday and professional use.",266,55
+19,2579,Gaming Consoles 849,5,1152.56,"The Gaming Consoles 849, a top choice in Gaming Consoles, features portable and lightweight design for convenience. Ideal for both everyday and professional use.",62,15
+20,7550,Gaming Consoles B0P,5,211.52,"The Gaming Consoles B0P, a top choice in Gaming Consoles, features excellent value for the price. Ideal for both everyday and professional use.",314,68
+21,4339,Smartphones 5IR,1,176.89,"The Smartphones 5IR, a top choice in Smartphones, features user-friendly interface and features. Ideal for both everyday and professional use.",276,21
+22,3090,Drones 2DR,8,130.39,"The Drones 2DR, a top choice in Drones, features an ergonomic design for ease of use. Ideal for both everyday and professional use.",30,87
+23,793,Gaming Consoles GO3,5,1396.95,"The Gaming Consoles GO3, a top choice in Gaming Consoles, features premium build quality. Ideal for both everyday and professional use.",107,72
+24,8862,Drones 896,8,219.82,"The Drones 896, a top choice in Drones, features premium build quality. Ideal for both everyday and professional use.",111,15
+25,4969,Gaming Consoles 0CO,5,889.71,"The Gaming Consoles 0CO, a top choice in Gaming Consoles, features an ergonomic design for ease of use. Ideal for both everyday and professional use.",483,78
+26,7774,TVs YM9,4,1078.55,"The TVs YM9, a top choice in TVs, features an ergonomic design for ease of use. Ideal for both everyday and professional use.",396,49
+27,2427,TVs F7Y,4,1322.63,"The TVs F7Y, a top choice in TVs, features portable and lightweight design for convenience. Ideal for both everyday and professional use.",268,26
+28,6766,Computers N6Q,2,1327.85,"The Computers N6Q, a top choice in Computers, features portable and lightweight design for convenience. Ideal for both everyday and professional use.",498,25
+29,6070,Smartphones RDH,1,1154.63,"The Smartphones RDH, a top choice in Smartphones, features a sleek and modern design. Ideal for both everyday and professional use.",68,68
+30,1756,Gaming Consoles NIG,5,705.37,"The Gaming Consoles NIG, a top choice in Gaming Consoles, features an ergonomic design for ease of use. Ideal for both everyday and professional use.",286,73
+31,1512,TVs VO1,4,950.25,"The TVs VO1, a top choice in TVs, features a sleek and modern design. Ideal for both everyday and professional use.",334,91
+32,7883,Gaming Consoles XER,5,1179.77,"The Gaming Consoles XER, a top choice in Gaming Consoles, features user-friendly interface and features. Ideal for both everyday and professional use.",217,86
+33,1871,TVs 26M,4,966.19,"The TVs 26M, a top choice in TVs, features state-of-the-art technology for peak performance. Ideal for both everyday and professional use.",200,66
+34,217,TVs 7I6,4,101.36,"The TVs 7I6, a top choice in TVs, features unmatched durability and reliability. Ideal for both everyday and professional use.",194,18
+35,3966,TVs 1S9,4,1442.35,"The TVs 1S9, a top choice in TVs, features a sleek and modern design. Ideal for both everyday and professional use.",186,82
+36,8463,Gaming Consoles K7W,5,295.87,"The Gaming Consoles K7W, a top choice in Gaming Consoles, features a sleek and modern design. Ideal for both everyday and professional use.",341,46
+37,7747,Wearable Technology N40,7,740.59,"The Wearable Technology N40, a top choice in Wearable Technology, features an ergonomic design for ease of use. Ideal for both everyday and professional use.",118,4
+38,5157,TVs XPA,4,916.11,"The TVs XPA, a top choice in TVs, features cutting-edge features for the modern user. Ideal for both everyday and professional use.",0,9
+39,8769,Gaming Consoles PJ5,5,192.04,"The Gaming Consoles PJ5, a top choice in Gaming Consoles, features user-friendly interface and features. Ideal for both everyday and professional use.",30,6
+40,4537,Smartphones UJK,1,641.1,"The Smartphones UJK, a top choice in Smartphones, features portable and lightweight design for convenience. Ideal for both everyday and professional use.",489,4
+41,8854,Smartphones DG1,1,365.99,"The Smartphones DG1, a top choice in Smartphones, features a sleek and modern design. Ideal for both everyday and professional use.",449,42
+42,3449,Smartphones F7H,1,103.22,"The Smartphones F7H, a top choice in Smartphones, features energy-efficient operation. Ideal for both everyday and professional use.",487,83
+43,5531,Smartphones LPL,1,1023.65,"The Smartphones LPL, a top choice in Smartphones, features portable and lightweight design for convenience. Ideal for both everyday and professional use.",485,44
+44,5549,Smartphones D4V,1,360.98,"The Smartphones D4V, a top choice in Smartphones, features a sleek and modern design. Ideal for both everyday and professional use.",76,73
+45,7453,Gaming Consoles AWT,5,1298.95,"The Gaming Consoles AWT, a top choice in Gaming Consoles, features portable and lightweight design for convenience. Ideal for both everyday and professional use.",483,72
+46,2508,Gaming Consoles FFN,5,579.92,"The Gaming Consoles FFN, a top choice in Gaming Consoles, features a sleek and modern design. Ideal for both everyday and professional use.",228,2
+47,2066,Gaming Consoles UUC,5,1364.6,"The Gaming Consoles UUC, a top choice in Gaming Consoles, features premium build quality. Ideal for both everyday and professional use.",155,42
+48,9854,Gaming Consoles 2I1,5,716.26,"The Gaming Consoles 2I1, a top choice in Gaming Consoles, features an ergonomic design for ease of use. Ideal for both everyday and professional use.",304,22
+49,6302,Smartphones N8H,1,1175.16,"The Smartphones N8H, a top choice in Smartphones, features premium build quality. Ideal for both everyday and professional use.",385,17
+50,8134,Computers 3O0,2,142.15,"The Computers 3O0, a top choice in Computers, features energy-efficient operation. Ideal for both everyday and professional use.",314,64
+51,1893,Gaming Consoles EHC,5,705.31,"The Gaming Consoles EHC, a top choice in Gaming Consoles, features portable and lightweight design for convenience. Ideal for both everyday and professional use.",60,9
+52,1043,Computers 40L,2,1360.73,"The Computers 40L, a top choice in Computers, features user-friendly interface and features. Ideal for both everyday and professional use.",246,22
+53,5026,TVs KDT,4,753.2,"The TVs KDT, a top choice in TVs, features portable and lightweight design for convenience. Ideal for both everyday and professional use.",361,68
+54,2865,TVs 0O2,4,217.48,"The TVs 0O2, a top choice in TVs, features energy-efficient operation. Ideal for both everyday and professional use.",164,84
+55,4518,TVs 4R5,4,315.01,"The TVs 4R5, a top choice in TVs, features user-friendly interface and features. Ideal for both everyday and professional use.",326,7
+56,5962,Smartphones LV4,1,207.05,"The Smartphones LV4, a top choice in Smartphones, features premium build quality. Ideal for both everyday and professional use.",188,48
+57,2202,Smartphones U4B,1,995.02,"The Smartphones U4B, a top choice in Smartphones, features cutting-edge features for the modern user. Ideal for both everyday and professional use.",499,38
+58,5998,Smartphones PTN,1,1431.07,"The Smartphones PTN, a top choice in Smartphones, features portable and lightweight design for convenience. Ideal for both everyday and professional use.",147,79
+59,7569,TVs HWW,4,285.31,"The TVs HWW, a top choice in TVs, features premium build quality. Ideal for both everyday and professional use.",469,17
+60,7566,Gaming Consoles BVZ,5,335.17,"The Gaming Consoles BVZ, a top choice in Gaming Consoles, features excellent value for the price. Ideal for both everyday and professional use.",438,67
+61,4248,TVs BSI,4,525.49,"The TVs BSI, a top choice in TVs, features portable and lightweight design for convenience. Ideal for both everyday and professional use.",458,20
+62,6856,Cameras 3XQ,3,733.48,"The Cameras 3XQ, a top choice in Cameras, features state-of-the-art technology for peak performance. Ideal for both everyday and professional use.",163,68
+63,2456,Gaming Consoles P88,5,741.07,"The Gaming Consoles P88, a top choice in Gaming Consoles, features portable and lightweight design for convenience. Ideal for both everyday and professional use.",304,87
+64,2886,Computers ZQR,2,1362.09,"The Computers ZQR, a top choice in Computers, features a sleek and modern design. Ideal for both everyday and professional use.",84,82
+65,2523,Smartphones S4U,1,58.5,"The Smartphones S4U, a top choice in Smartphones, features cutting-edge features for the modern user. Ideal for both everyday and professional use.",363,43
+66,3030,Drones MNY,8,542.4,"The Drones MNY, a top choice in Drones, features state-of-the-art technology for peak performance. Ideal for both everyday and professional use.",41,91
+67,4438,Gaming Consoles LBL,5,1256.48,"The Gaming Consoles LBL, a top choice in Gaming Consoles, features excellent value for the price. Ideal for both everyday and professional use.",366,17
+68,6446,Smartphones EY3,1,98.32,"The Smartphones EY3, a top choice in Smartphones, features portable and lightweight design for convenience. Ideal for both everyday and professional use.",53,62
+69,8831,Smartphones 5FK,1,328.9,"The Smartphones 5FK, a top choice in Smartphones, features a sleek and modern design. Ideal for both everyday and professional use.",366,97
+70,4131,Smartphones QTY,1,1449.82,"The Smartphones QTY, a top choice in Smartphones, features an ergonomic design for ease of use. Ideal for both everyday and professional use.",220,81
+71,7795,Smartphones VGI,1,856.06,"The Smartphones VGI, a top choice in Smartphones, features user-friendly interface and features. Ideal for both everyday and professional use.",235,92
+72,4335,TVs LYH,4,420.54,"The TVs LYH, a top choice in TVs, features premium build quality. Ideal for both everyday and professional use.",435,48
+73,2489,Computers 99E,2,1246.39,"The Computers 99E, a top choice in Computers, features cutting-edge features for the modern user. Ideal for both everyday and professional use.",107,71
+74,9450,Drones 6C3,8,103.25,"The Drones 6C3, a top choice in Drones, features state-of-the-art technology for peak performance. Ideal for both everyday and professional use.",72,50
+75,7620,Wearable Technology P4M,7,1131.83,"The Wearable Technology P4M, a top choice in Wearable Technology, features an ergonomic design for ease of use. Ideal for both everyday and professional use.",397,16
+76,6749,Computers AH5,2,969.27,"The Computers AH5, a top choice in Computers, features user-friendly interface and features. Ideal for both everyday and professional use.",192,22
+77,8971,Drones U30,8,402.55,"The Drones U30, a top choice in Drones, features an ergonomic design for ease of use. Ideal for both everyday and professional use.",123,16
+78,7140,Wearable Technology 9YS,7,383.44,"The Wearable Technology 9YS, a top choice in Wearable Technology, features user-friendly interface and features. Ideal for both everyday and professional use.",163,48
+79,6520,TVs SUK,4,1359.76,"The TVs SUK, a top choice in TVs, features premium build quality. Ideal for both everyday and professional use.",72,41
+80,2614,Computers CAG,2,638.09,"The Computers CAG, a top choice in Computers, features a sleek and modern design. Ideal for both everyday and professional use.",14,100
+81,4292,TVs IPB,4,182.94,"The TVs IPB, a top choice in TVs, features cutting-edge features for the modern user. Ideal for both everyday and professional use.",450,29
+82,345,Drones MQN,8,1220.68,"The Drones MQN, a top choice in Drones, features excellent value for the price. Ideal for both everyday and professional use.",281,74
+83,6711,Smartphones FU0,1,265.31,"The Smartphones FU0, a top choice in Smartphones, features an ergonomic design for ease of use. Ideal for both everyday and professional use.",216,44
+84,7866,Gaming Consoles M8O,5,1210.48,"The Gaming Consoles M8O, a top choice in Gaming Consoles, features premium build quality. Ideal for both everyday and professional use.",394,76
+85,5726,Smartphones 02G,1,636.42,"The Smartphones 02G, a top choice in Smartphones, features excellent value for the price. Ideal for both everyday and professional use.",262,52
+86,8167,Computers XLN,2,183.11,"The Computers XLN, a top choice in Computers, features state-of-the-art technology for peak performance. Ideal for both everyday and professional use.",285,24
+87,5881,Smartphones QQ8,1,51.44,"The Smartphones QQ8, a top choice in Smartphones, features a sleek and modern design. Ideal for both everyday and professional use.",191,43
+88,3797,TVs H9M,4,862.43,"The TVs H9M, a top choice in TVs, features excellent value for the price. Ideal for both everyday and professional use.",14,21
+89,6059,Drones 4N2,8,1352.99,"The Drones 4N2, a top choice in Drones, features portable and lightweight design for convenience. Ideal for both everyday and professional use.",410,62
+90,4071,Computers RPA,2,956.73,"The Computers RPA, a top choice in Computers, features energy-efficient operation. Ideal for both everyday and professional use.",356,97
+91,9891,Drones 4UM,8,1002.8,"The Drones 4UM, a top choice in Drones, features premium build quality. Ideal for both everyday and professional use.",38,28
+92,1887,TVs O2X,4,801.03,"The TVs O2X, a top choice in TVs, features a sleek and modern design. Ideal for both everyday and professional use.",479,8
+93,1738,Wearable Technology UVO,7,483.88,"The Wearable Technology UVO, a top choice in Wearable Technology, features portable and lightweight design for convenience. Ideal for both everyday and professional use.",195,91
+94,4337,Smartphones WOZ,1,391.66,"The Smartphones WOZ, a top choice in Smartphones, features premium build quality. Ideal for both everyday and professional use.",147,91
+95,5475,Smartphones 7DX,1,182.27,"The Smartphones 7DX, a top choice in Smartphones, features cutting-edge features for the modern user. Ideal for both everyday and professional use.",185,60
+96,1089,Gaming Consoles ZEZ,5,1373.0,"The Gaming Consoles ZEZ, a top choice in Gaming Consoles, features cutting-edge features for the modern user. Ideal for both everyday and professional use.",287,74
+97,174,TVs Z2D,4,510.78,"The TVs Z2D, a top choice in TVs, features cutting-edge features for the modern user. Ideal for both everyday and professional use.",471,37
+98,6612,Smartphones OS6,1,247.03,"The Smartphones OS6, a top choice in Smartphones, features an ergonomic design for ease of use. Ideal for both everyday and professional use.",77,57
+99,6770,Smartphones BMS,1,752.17,"The Smartphones BMS, a top choice in Smartphones, features portable and lightweight design for convenience. Ideal for both everyday and professional use.",266,80
+100,7750,Computers W0A,2,1477.17,"The Computers W0A, a top choice in Computers, features energy-efficient operation. Ideal for both everyday and professional use.",345,75
+101,6162,Drones LUB,8,1018.48,"The Drones LUB, a top choice in Drones, features excellent value for the price. Ideal for both everyday and professional use.",163,79
+102,5324,Smartphones ZNO,1,1495.85,"The Smartphones ZNO, a top choice in Smartphones, features unmatched durability and reliability. Ideal for both everyday and professional use.",24,85
+103,8017,Drones UL5,8,917.44,"The Drones UL5, a top choice in Drones, features excellent value for the price. Ideal for both everyday and professional use.",484,14
+104,4307,Smartphones 63H,1,1006.95,"The Smartphones 63H, a top choice in Smartphones, features cutting-edge features for the modern user. Ideal for both everyday and professional use.",377,20
+105,9280,Computers GJV,2,669.08,"The Computers GJV, a top choice in Computers, features an ergonomic design for ease of use. Ideal for both everyday and professional use.",72,72
+106,4882,Gaming Consoles G2S,5,893.12,"The Gaming Consoles G2S, a top choice in Gaming Consoles, features state-of-the-art technology for peak performance. Ideal for both everyday and professional use.",421,42
+107,159,TVs TLK,4,102.22,"The TVs TLK, a top choice in TVs, features premium build quality. Ideal for both everyday and professional use.",466,20
+108,8044,Drones UKD,8,521.48,"The Drones UKD, a top choice in Drones, features cutting-edge features for the modern user. Ideal for both everyday and professional use.",50,88
+109,688,Gaming Consoles 7NL,5,1114.22,"The Gaming Consoles 7NL, a top choice in Gaming Consoles, features user-friendly interface and features. Ideal for both everyday and professional use.",72,59
+110,2994,Smartphones Q67,1,356.35,"The Smartphones Q67, a top choice in Smartphones, features a sleek and modern design. Ideal for both everyday and professional use.",495,11
+111,12,TVs GH3,4,1460.7,"The TVs GH3, a top choice in TVs, features cutting-edge features for the modern user. Ideal for both everyday and professional use.",296,52
+112,1869,TVs 7OU,4,1174.09,"The TVs 7OU, a top choice in TVs, features user-friendly interface and features. Ideal for both everyday and professional use.",227,28
+113,6986,Smartphones T0G,1,1198.17,"The Smartphones T0G, a top choice in Smartphones, features portable and lightweight design for convenience. Ideal for both everyday and professional use.",274,46
+114,8875,Smartphones FG3,1,398.36,"The Smartphones FG3, a top choice in Smartphones, features premium build quality. Ideal for both everyday and professional use.",321,12
+115,9415,TVs QMN,4,986.66,"The TVs QMN, a top choice in TVs, features energy-efficient operation. Ideal for both everyday and professional use.",155,83
+116,6963,Gaming Consoles YTI,5,703.49,"The Gaming Consoles YTI, a top choice in Gaming Consoles, features user-friendly interface and features. Ideal for both everyday and professional use.",291,59
+117,1219,Smartphones 226,1,967.23,"The Smartphones 226, a top choice in Smartphones, features an ergonomic design for ease of use. Ideal for both everyday and professional use.",46,76
+118,6436,Gaming Consoles 055,5,351.84,"The Gaming Consoles 055, a top choice in Gaming Consoles, features energy-efficient operation. Ideal for both everyday and professional use.",376,35
+119,5759,TVs T70,4,1355.49,"The TVs T70, a top choice in TVs, features an ergonomic design for ease of use. Ideal for both everyday and professional use.",99,5
+120,6686,Drones F4I,8,661.35,"The Drones F4I, a top choice in Drones, features user-friendly interface and features. Ideal for both everyday and professional use.",67,69
+121,617,Gaming Consoles W83,5,884.1,"The Gaming Consoles W83, a top choice in Gaming Consoles, features premium build quality. Ideal for both everyday and professional use.",99,18
+122,5337,Drones 865,8,181.97,"The Drones 865, a top choice in Drones, features energy-efficient operation. Ideal for both everyday and professional use.",93,14
+123,5963,Drones N01,8,1175.81,"The Drones N01, a top choice in Drones, features premium build quality. Ideal for both everyday and professional use.",485,5
+124,3687,TVs QIB,4,969.4,"The TVs QIB, a top choice in TVs, features excellent value for the price. Ideal for both everyday and professional use.",300,92
+125,5624,Smartphones UBK,1,1235.6,"The Smartphones UBK, a top choice in Smartphones, features unmatched durability and reliability. Ideal for both everyday and professional use.",287,5
+126,661,Wearable Technology 2B1,7,861.91,"The Wearable Technology 2B1, a top choice in Wearable Technology, features portable and lightweight design for convenience. Ideal for both everyday and professional use.",301,47
+127,5239,Smartphones 6OX,1,947.58,"The Smartphones 6OX, a top choice in Smartphones, features an ergonomic design for ease of use. Ideal for both everyday and professional use.",462,58
+128,8040,Smartphones NKC,1,1262.0,"The Smartphones NKC, a top choice in Smartphones, features energy-efficient operation. Ideal for both everyday and professional use.",44,19
+129,3942,Drones VQC,8,658.25,"The Drones VQC, a top choice in Drones, features cutting-edge features for the modern user. Ideal for both everyday and professional use.",85,99
+130,5999,Drones 7C1,8,143.62,"The Drones 7C1, a top choice in Drones, features unmatched durability and reliability. Ideal for both everyday and professional use.",240,22
+131,2436,Computers V3V,2,358.96,"The Computers V3V, a top choice in Computers, features user-friendly interface and features. Ideal for both everyday and professional use.",325,15
+132,5967,Gaming Consoles XHU,5,494.37,"The Gaming Consoles XHU, a top choice in Gaming Consoles, features state-of-the-art technology for peak performance. Ideal for both everyday and professional use.",185,40
+133,1161,Gaming Consoles 54U,5,1186.47,"The Gaming Consoles 54U, a top choice in Gaming Consoles, features an ergonomic design for ease of use. Ideal for both everyday and professional use.",348,63
+134,5914,Smartphones P4M,1,73.9,"The Smartphones P4M, a top choice in Smartphones, features energy-efficient operation. Ideal for both everyday and professional use.",40,16
+135,4313,Gaming Consoles 1XW,5,1464.61,"The Gaming Consoles 1XW, a top choice in Gaming Consoles, features user-friendly interface and features. Ideal for both everyday and professional use.",84,25
+136,6536,Drones VJ3,8,629.12,"The Drones VJ3, a top choice in Drones, features state-of-the-art technology for peak performance. Ideal for both everyday and professional use.",183,35
+137,8241,Smartphones ZNT,1,1102.11,"The Smartphones ZNT, a top choice in Smartphones, features energy-efficient operation. Ideal for both everyday and professional use.",170,88
+138,8027,Gaming Consoles Y8Y,5,1430.95,"The Gaming Consoles Y8Y, a top choice in Gaming Consoles, features an ergonomic design for ease of use. Ideal for both everyday and professional use.",205,66
+139,3892,Drones LKU,8,1324.62,"The Drones LKU, a top choice in Drones, features a sleek and modern design. Ideal for both everyday and professional use.",112,51
+140,6927,Wearable Technology ROT,7,856.41,"The Wearable Technology ROT, a top choice in Wearable Technology, features portable and lightweight design for convenience. Ideal for both everyday and professional use.",229,73
+141,876,Wearable Technology P2G,7,430.56,"The Wearable Technology P2G, a top choice in Wearable Technology, features an ergonomic design for ease of use. Ideal for both everyday and professional use.",188,77
+142,223,Drones M5Z,8,241.64,"The Drones M5Z, a top choice in Drones, features an ergonomic design for ease of use. Ideal for both everyday and professional use.",378,89
+143,232,Smartphones GK9,1,314.82,"The Smartphones GK9, a top choice in Smartphones, features unmatched durability and reliability. Ideal for both everyday and professional use.",116,63
+144,9407,Gaming Consoles R6X,5,267.44,"The Gaming Consoles R6X, a top choice in Gaming Consoles, features portable and lightweight design for convenience. Ideal for both everyday and professional use.",324,90
+145,98,Wearable Technology XKJ,7,1237.05,"The Wearable Technology XKJ, a top choice in Wearable Technology, features excellent value for the price. Ideal for both everyday and professional use.",387,6
+146,9194,TVs SAK,4,544.04,"The TVs SAK, a top choice in TVs, features user-friendly interface and features. Ideal for both everyday and professional use.",88,69
+147,2059,TVs W39,4,1455.41,"The TVs W39, a top choice in TVs, features energy-efficient operation. Ideal for both everyday and professional use.",330,84
+148,2512,Computers 2FJ,2,1277.95,"The Computers 2FJ, a top choice in Computers, features energy-efficient operation. Ideal for both everyday and professional use.",97,55
+149,5864,Drones A6N,8,1417.44,"The Drones A6N, a top choice in Drones, features energy-efficient operation. Ideal for both everyday and professional use.",399,44
+150,6165,Smartphones 7VH,1,611.83,"The Smartphones 7VH, a top choice in Smartphones, features portable and lightweight design for convenience. Ideal for both everyday and professional use.",61,60
+151,1095,Smartphones KJ8,1,1349.17,"The Smartphones KJ8, a top choice in Smartphones, features unmatched durability and reliability. Ideal for both everyday and professional use.",168,79
+152,8784,Smartphones SPC,1,550.3,"The Smartphones SPC, a top choice in Smartphones, features premium build quality. Ideal for both everyday and professional use.",314,67
+153,641,Computers FCP,2,677.15,"The Computers FCP, a top choice in Computers, features state-of-the-art technology for peak performance. Ideal for both everyday and professional use.",389,1
+154,7761,Smartphones MNL,1,310.8,"The Smartphones MNL, a top choice in Smartphones, features state-of-the-art technology for peak performance. Ideal for both everyday and professional use.",183,40
+155,4462,Gaming Consoles 3II,5,1294.08,"The Gaming Consoles 3II, a top choice in Gaming Consoles, features premium build quality. Ideal for both everyday and professional use.",129,20
+156,1308,Drones 7ZP,8,193.92,"The Drones 7ZP, a top choice in Drones, features premium build quality. Ideal for both everyday and professional use.",362,13
+157,9832,TVs TPC,4,1020.06,"The TVs TPC, a top choice in TVs, features excellent value for the price. Ideal for both everyday and professional use.",369,61
+158,4455,Smartphones I60,1,771.96,"The Smartphones I60, a top choice in Smartphones, features a sleek and modern design. Ideal for both everyday and professional use.",31,74
+159,7022,Gaming Consoles 93G,5,846.92,"The Gaming Consoles 93G, a top choice in Gaming Consoles, features cutting-edge features for the modern user. Ideal for both everyday and professional use.",128,7
+160,8456,Gaming Consoles 5NK,5,537.95,"The Gaming Consoles 5NK, a top choice in Gaming Consoles, features state-of-the-art technology for peak performance. Ideal for both everyday and professional use.",14,9
+161,2206,Drones UUD,8,1483.74,"The Drones UUD, a top choice in Drones, features cutting-edge features for the modern user. Ideal for both everyday and professional use.",348,84
+162,5382,Computers 1TJ,2,993.32,"The Computers 1TJ, a top choice in Computers, features energy-efficient operation. Ideal for both everyday and professional use.",58,37
+163,158,TVs 61V,4,1018.56,"The TVs 61V, a top choice in TVs, features an ergonomic design for ease of use. Ideal for both everyday and professional use.",290,68
+164,6892,Computers 38R,2,1370.66,"The Computers 38R, a top choice in Computers, features user-friendly interface and features. Ideal for both everyday and professional use.",134,30
+165,6290,Gaming Consoles JE8,5,210.04,"The Gaming Consoles JE8, a top choice in Gaming Consoles, features excellent value for the price. Ideal for both everyday and professional use.",72,97
+166,5188,Smartphones 74O,1,889.98,"The Smartphones 74O, a top choice in Smartphones, features an ergonomic design for ease of use. Ideal for both everyday and professional use.",309,83
+167,8101,Smartphones ARN,1,1148.2,"The Smartphones ARN, a top choice in Smartphones, features premium build quality. Ideal for both everyday and professional use.",379,95
+168,5141,Gaming Consoles RGS,5,847.68,"The Gaming Consoles RGS, a top choice in Gaming Consoles, features energy-efficient operation. Ideal for both everyday and professional use.",194,48
+169,4270,Computers SGA,2,1471.99,"The Computers SGA, a top choice in Computers, features state-of-the-art technology for peak performance. Ideal for both everyday and professional use.",167,2
+170,8938,Drones 84L,8,363.71,"The Drones 84L, a top choice in Drones, features a sleek and modern design. Ideal for both everyday and professional use.",15,61
+171,1958,Gaming Consoles PCO,5,411.77,"The Gaming Consoles PCO, a top choice in Gaming Consoles, features a sleek and modern design. Ideal for both everyday and professional use.",436,18
+172,1819,Smartphones QR9,1,627.02,"The Smartphones QR9, a top choice in Smartphones, features excellent value for the price. Ideal for both everyday and professional use.",245,18
+173,8559,TVs TNB,4,356.76,"The TVs TNB, a top choice in TVs, features a sleek and modern design. Ideal for both everyday and professional use.",443,12
+174,9536,Smartphones 4UW,1,1208.91,"The Smartphones 4UW, a top choice in Smartphones, features a sleek and modern design. Ideal for both everyday and professional use.",146,64
+175,7635,TVs 6R5,4,678.72,"The TVs 6R5, a top choice in TVs, features a sleek and modern design. Ideal for both everyday and professional use.",27,80
+176,3144,Gaming Consoles PT5,5,876.59,"The Gaming Consoles PT5, a top choice in Gaming Consoles, features portable and lightweight design for convenience. Ideal for both everyday and professional use.",66,29
+177,7177,TVs AHK,4,883.85,"The TVs AHK, a top choice in TVs, features an ergonomic design for ease of use. Ideal for both everyday and professional use.",297,64
+178,4755,TVs H3C,4,220.96,"The TVs H3C, a top choice in TVs, features cutting-edge features for the modern user. Ideal for both everyday and professional use.",364,10
+179,5099,Drones ZL5,8,320.43,"The Drones ZL5, a top choice in Drones, features state-of-the-art technology for peak performance. Ideal for both everyday and professional use.",473,28
+180,5274,TVs BN4,4,528.05,"The TVs BN4, a top choice in TVs, features premium build quality. Ideal for both everyday and professional use.",177,5
+181,4592,Smartphones WGG,1,1198.67,"The Smartphones WGG, a top choice in Smartphones, features excellent value for the price. Ideal for both everyday and professional use.",94,58
+182,9410,Smartphones SAO,1,594.08,"The Smartphones SAO, a top choice in Smartphones, features unmatched durability and reliability. Ideal for both everyday and professional use.",156,21
+183,2107,Gaming Consoles 0G0,5,854.64,"The Gaming Consoles 0G0, a top choice in Gaming Consoles, features premium build quality. Ideal for both everyday and professional use.",139,77
+184,6001,Drones U2T,8,1150.41,"The Drones U2T, a top choice in Drones, features premium build quality. Ideal for both everyday and professional use.",48,27
+185,6149,Wearable Technology CRT,7,1189.75,"The Wearable Technology CRT, a top choice in Wearable Technology, features state-of-the-art technology for peak performance. Ideal for both everyday and professional use.",223,57
+186,9120,TVs RLI,4,1483.46,"The TVs RLI, a top choice in TVs, features unmatched durability and reliability. Ideal for both everyday and professional use.",428,94
+187,8121,TVs 5U7,4,330.78,"The TVs 5U7, a top choice in TVs, features cutting-edge features for the modern user. Ideal for both everyday and professional use.",392,5
+188,9677,Gaming Consoles 8AI,5,845.49,"The Gaming Consoles 8AI, a top choice in Gaming Consoles, features portable and lightweight design for convenience. Ideal for both everyday and professional use.",460,41
+189,5619,Wearable Technology Y7P,7,1312.08,"The Wearable Technology Y7P, a top choice in Wearable Technology, features a sleek and modern design. Ideal for both everyday and professional use.",104,74
+190,2323,Computers AO0,2,163.41,"The Computers AO0, a top choice in Computers, features unmatched durability and reliability. Ideal for both everyday and professional use.",85,100
+191,1530,Gaming Consoles 27F,5,1056.51,"The Gaming Consoles 27F, a top choice in Gaming Consoles, features an ergonomic design for ease of use. Ideal for both everyday and professional use.",422,2
+192,1073,Smartphones A1D,1,1184.89,"The Smartphones A1D, a top choice in Smartphones, features portable and lightweight design for convenience. Ideal for both everyday and professional use.",352,5
+193,1566,Computers GRA,2,591.2,"The Computers GRA, a top choice in Computers, features premium build quality. Ideal for both everyday and professional use.",90,7
+194,9502,Smartphones ZDE,1,57.03,"The Smartphones ZDE, a top choice in Smartphones, features a sleek and modern design. Ideal for both everyday and professional use.",378,90
+195,3401,Smartphones HK3,1,211.19,"The Smartphones HK3, a top choice in Smartphones, features an ergonomic design for ease of use. Ideal for both everyday and professional use.",484,23
+196,1799,Gaming Consoles JBU,5,1367.5,"The Gaming Consoles JBU, a top choice in Gaming Consoles, features an ergonomic design for ease of use. Ideal for both everyday and professional use.",302,12
+197,5806,TVs NZC,4,1451.93,"The TVs NZC, a top choice in TVs, features user-friendly interface and features. Ideal for both everyday and professional use.",357,41
+198,835,Computers USS,2,895.44,"The Computers USS, a top choice in Computers, features a sleek and modern design. Ideal for both everyday and professional use.",379,99
+199,5564,Smartphones JGC,1,837.22,"The Smartphones JGC, a top choice in Smartphones, features state-of-the-art technology for peak performance. Ideal for both everyday and professional use.",293,30

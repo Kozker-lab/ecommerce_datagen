@@ -1,0 +1,201 @@
+ProductID,Name,CategoryID,Price,Description,StockLevel,SupplierID
+7174,Headphones nK-068,1,223.3,This Headphones features noise-cancellation technology and high-fidelity sound for an exceptional audio experience.,135,44
+6687,Fitness Tracker EU-265,4,805.97,"An essential electronic device for modern needs, this Fitness blends style with functionality.",13,34
+3246,VR Headset wx-727,5,1464.29,"An essential electronic device for modern needs, this VR blends style with functionality.",385,33
+8076,Drone pb-485,8,655.6,"This Drone takes to the skies with ease, capturing stunning aerial footage with its built-in camera.",205,26
+3952,Tablet Db-282,5,790.0,This Tablet combines the functionality of a computer with the portability of a smartphone.,233,25
+584,Camera dH-718,1,1194.22,This Camera captures professional-quality photos and videos with its advanced sensors and intuitive controls.,161,14
+3962,VR Headset Fh-671,2,582.1,"An essential electronic device for modern needs, this VR blends style with functionality.",320,96
+8762,TV oG-535,5,1070.52,This TV provides an immersive viewing experience with its ultra-high definition resolution and smart connectivity.,86,1
+6832,Headphones YY-159,4,1094.28,This Headphones features noise-cancellation technology and high-fidelity sound for an exceptional audio experience.,425,73
+5704,Keyboard rd-688,7,590.77,This Keyboard enhances your typing with responsive keys and customizable macros.,12,86
+4766,Laptop LW-185,7,143.42,"This Laptop offers unparalleled performance with its high-speed processor, robust memory, and vivid graphics.",245,94
+9436,Video Camera Co-014,3,344.19,"An essential electronic device for modern needs, this Video blends style with functionality.",417,34
+8746,Mouse jF-512,2,236.28,This Mouse provides precision and comfort for all your computing needs.,77,39
+6970,E-Reader gw-326,2,1322.29,This E-Reader gives you access to thousands of books in a lightweight and portable device.,147,47
+2949,Fitness Tracker Ho-833,6,1392.35,"An essential electronic device for modern needs, this Fitness blends style with functionality.",26,67
+4500,Camera aL-387,1,748.89,This Camera captures professional-quality photos and videos with its advanced sensors and intuitive controls.,341,1
+2226,Camera Vf-791,4,1315.98,This Camera captures professional-quality photos and videos with its advanced sensors and intuitive controls.,345,22
+8188,Drone Tw-359,3,267.66,"This Drone takes to the skies with ease, capturing stunning aerial footage with its built-in camera.",375,95
+485,Laptop Ac-682,4,333.43,"This Laptop offers unparalleled performance with its high-speed processor, robust memory, and vivid graphics.",266,55
+2579,Tablet NP-141,2,1152.56,This Tablet combines the functionality of a computer with the portability of a smartphone.,62,15
+7550,Laptop Fm-600,7,211.52,"This Laptop offers unparalleled performance with its high-speed processor, robust memory, and vivid graphics.",314,68
+4339,Game Console Jh-447,1,176.89,"An essential electronic device for modern needs, this Game blends style with functionality.",276,21
+3090,VR Headset EE-510,2,130.39,"An essential electronic device for modern needs, this VR blends style with functionality.",30,87
+793,Laptop dX-531,1,1396.95,"This Laptop offers unparalleled performance with its high-speed processor, robust memory, and vivid graphics.",107,72
+8862,Fitness Tracker sZ-857,1,219.82,"An essential electronic device for modern needs, this Fitness blends style with functionality.",111,15
+4969,Drone MT-019,4,889.71,"This Drone takes to the skies with ease, capturing stunning aerial footage with its built-in camera.",483,78
+7774,Portable Speaker vW-804,2,1078.55,"An essential electronic device for modern needs, this Portable blends style with functionality.",396,49
+2427,Keyboard QX-324,7,1322.63,This Keyboard enhances your typing with responsive keys and customizable macros.,268,26
+6766,Video Camera DR-254,2,1327.85,"An essential electronic device for modern needs, this Video blends style with functionality.",498,25
+6070,VR Headset It-642,8,1154.63,"An essential electronic device for modern needs, this VR blends style with functionality.",68,68
+1756,Mouse SL-773,7,705.37,This Mouse provides precision and comfort for all your computing needs.,286,73
+1512,Microphone yg-963,3,950.25,"This Microphone captures clear and crisp audio, ideal for podcasting and recording.",334,91
+7883,Drone ZH-309,3,1179.77,"This Drone takes to the skies with ease, capturing stunning aerial footage with its built-in camera.",217,86
+1871,Portable Speaker Kw-718,4,966.19,"An essential electronic device for modern needs, this Portable blends style with functionality.",200,66
+217,Headphones CU-236,1,101.36,This Headphones features noise-cancellation technology and high-fidelity sound for an exceptional audio experience.,194,18
+3966,Game Console gK-556,7,1442.35,"An essential electronic device for modern needs, this Game blends style with functionality.",186,82
+8463,Video Camera wV-477,2,295.87,"An essential electronic device for modern needs, this Video blends style with functionality.",341,46
+7747,Drone NA-476,3,740.59,"This Drone takes to the skies with ease, capturing stunning aerial footage with its built-in camera.",118,4
+5157,Monitor Vq-566,6,916.11,This Monitor boasts crisp visuals and vibrant colors for both gaming and professional tasks.,0,9
+8769,Portable Speaker tg-426,6,192.04,"An essential electronic device for modern needs, this Portable blends style with functionality.",30,6
+4537,Video Camera rh-537,6,641.1,"An essential electronic device for modern needs, this Video blends style with functionality.",489,4
+8854,Fitness Tracker fC-948,3,365.99,"An essential electronic device for modern needs, this Fitness blends style with functionality.",449,42
+3449,Video Camera Qs-866,7,103.22,"An essential electronic device for modern needs, this Video blends style with functionality.",487,83
+5531,Portable Speaker mM-216,4,1023.65,"An essential electronic device for modern needs, this Portable blends style with functionality.",485,44
+5549,Camera IQ-639,8,360.98,This Camera captures professional-quality photos and videos with its advanced sensors and intuitive controls.,76,73
+7453,Microphone JY-559,5,1298.95,"This Microphone captures clear and crisp audio, ideal for podcasting and recording.",483,72
+2508,Headphones Av-131,6,579.92,This Headphones features noise-cancellation technology and high-fidelity sound for an exceptional audio experience.,228,2
+2066,Keyboard gO-013,5,1364.6,This Keyboard enhances your typing with responsive keys and customizable macros.,155,42
+9854,Drone og-937,4,716.26,"This Drone takes to the skies with ease, capturing stunning aerial footage with its built-in camera.",304,22
+6302,Drone FC-067,5,1175.16,"This Drone takes to the skies with ease, capturing stunning aerial footage with its built-in camera.",385,17
+8134,Fitness Tracker wG-968,2,142.15,"An essential electronic device for modern needs, this Fitness blends style with functionality.",314,64
+1893,Keyboard pD-610,1,705.31,This Keyboard enhances your typing with responsive keys and customizable macros.,60,9
+1043,Fitness Tracker HZ-977,6,1360.73,"An essential electronic device for modern needs, this Fitness blends style with functionality.",246,22
+5026,Game Console AX-119,6,753.2,"An essential electronic device for modern needs, this Game blends style with functionality.",361,68
+2865,Headphones Fw-514,3,217.48,This Headphones features noise-cancellation technology and high-fidelity sound for an exceptional audio experience.,164,84
+4518,Portable Speaker qv-188,7,315.01,"An essential electronic device for modern needs, this Portable blends style with functionality.",326,7
+5962,Microphone zo-411,6,207.05,"This Microphone captures clear and crisp audio, ideal for podcasting and recording.",188,48
+2202,Camera Ze-127,8,995.02,This Camera captures professional-quality photos and videos with its advanced sensors and intuitive controls.,499,38
+5998,Fitness Tracker SU-655,7,1431.07,"An essential electronic device for modern needs, this Fitness blends style with functionality.",147,79
+7569,Mouse qi-631,4,285.31,This Mouse provides precision and comfort for all your computing needs.,469,17
+7566,Monitor zW-932,2,335.17,This Monitor boasts crisp visuals and vibrant colors for both gaming and professional tasks.,438,67
+4248,Fitness Tracker FP-751,6,525.49,"An essential electronic device for modern needs, this Fitness blends style with functionality.",458,20
+6856,Drone ol-872,5,733.48,"This Drone takes to the skies with ease, capturing stunning aerial footage with its built-in camera.",163,68
+2456,Smartphone rY-288,8,741.07,"This Smartphone features the latest in mobile technology with a stunning display, a high-resolution camera, and a long-lasting battery.",304,87
+2886,Portable Speaker Uq-797,7,1362.09,"An essential electronic device for modern needs, this Portable blends style with functionality.",84,82
+2523,Tablet SK-909,1,58.5,This Tablet combines the functionality of a computer with the portability of a smartphone.,363,43
+3030,VR Headset kW-353,7,542.4,"An essential electronic device for modern needs, this VR blends style with functionality.",41,91
+4438,TV sH-820,8,1256.48,This TV provides an immersive viewing experience with its ultra-high definition resolution and smart connectivity.,366,17
+6446,Monitor yW-596,1,98.32,This Monitor boasts crisp visuals and vibrant colors for both gaming and professional tasks.,53,62
+8831,Camera Bb-729,7,328.9,This Camera captures professional-quality photos and videos with its advanced sensors and intuitive controls.,366,97
+4131,Headphones IZ-118,6,1449.82,This Headphones features noise-cancellation technology and high-fidelity sound for an exceptional audio experience.,220,81
+7795,VR Headset qF-858,8,856.06,"An essential electronic device for modern needs, this VR blends style with functionality.",235,92
+4335,TV nm-004,1,420.54,This TV provides an immersive viewing experience with its ultra-high definition resolution and smart connectivity.,435,48
+2489,Drone Oq-515,6,1246.39,"This Drone takes to the skies with ease, capturing stunning aerial footage with its built-in camera.",107,71
+9450,Game Console nF-568,5,103.25,"An essential electronic device for modern needs, this Game blends style with functionality.",72,50
+7620,Portable Speaker tn-749,1,1131.83,"An essential electronic device for modern needs, this Portable blends style with functionality.",397,16
+6749,Smartphone kj-030,7,969.27,"This Smartphone features the latest in mobile technology with a stunning display, a high-resolution camera, and a long-lasting battery.",192,22
+8971,Drone nh-011,8,402.55,"This Drone takes to the skies with ease, capturing stunning aerial footage with its built-in camera.",123,16
+7140,Portable Speaker pg-078,8,383.44,"An essential electronic device for modern needs, this Portable blends style with functionality.",163,48
+6520,Drone ym-132,8,1359.76,"This Drone takes to the skies with ease, capturing stunning aerial footage with its built-in camera.",72,41
+2614,Mouse wd-576,8,638.09,This Mouse provides precision and comfort for all your computing needs.,14,100
+4292,Portable Speaker yg-921,4,182.94,"An essential electronic device for modern needs, this Portable blends style with functionality.",450,29
+345,VR Headset mF-738,8,1220.68,"An essential electronic device for modern needs, this VR blends style with functionality.",281,74
+6711,TV ev-012,3,265.31,This TV provides an immersive viewing experience with its ultra-high definition resolution and smart connectivity.,216,44
+7866,Game Console Of-308,1,1210.48,"An essential electronic device for modern needs, this Game blends style with functionality.",394,76
+5726,Game Console Am-083,6,636.42,"An essential electronic device for modern needs, this Game blends style with functionality.",262,52
+8167,Microphone iO-553,4,183.11,"This Microphone captures clear and crisp audio, ideal for podcasting and recording.",285,24
+5881,Mouse fz-463,8,51.44,This Mouse provides precision and comfort for all your computing needs.,191,43
+3797,Portable Speaker yY-647,7,862.43,"An essential electronic device for modern needs, this Portable blends style with functionality.",14,21
+6059,Camera sE-134,6,1352.99,This Camera captures professional-quality photos and videos with its advanced sensors and intuitive controls.,410,62
+4071,Drone dI-915,5,956.73,"This Drone takes to the skies with ease, capturing stunning aerial footage with its built-in camera.",356,97
+9891,Laptop zH-669,4,1002.8,"This Laptop offers unparalleled performance with its high-speed processor, robust memory, and vivid graphics.",38,28
+1887,Tablet mJ-953,5,801.03,This Tablet combines the functionality of a computer with the portability of a smartphone.,479,8
+1738,Keyboard MA-313,3,483.88,This Keyboard enhances your typing with responsive keys and customizable macros.,195,91
+4337,Fitness Tracker eF-672,4,391.66,"An essential electronic device for modern needs, this Fitness blends style with functionality.",147,91
+5475,Smartphone Kk-512,3,182.27,"This Smartphone features the latest in mobile technology with a stunning display, a high-resolution camera, and a long-lasting battery.",185,60
+1089,Video Camera GT-177,3,1373.0,"An essential electronic device for modern needs, this Video blends style with functionality.",287,74
+174,Monitor HF-324,2,510.78,This Monitor boasts crisp visuals and vibrant colors for both gaming and professional tasks.,471,37
+6612,Headphones WX-642,5,247.03,This Headphones features noise-cancellation technology and high-fidelity sound for an exceptional audio experience.,77,57
+6770,Mouse So-559,7,752.17,This Mouse provides precision and comfort for all your computing needs.,266,80
+7750,Smartphone zd-443,7,1477.17,"This Smartphone features the latest in mobile technology with a stunning display, a high-resolution camera, and a long-lasting battery.",345,75
+6162,VR Headset Jg-201,6,1018.48,"An essential electronic device for modern needs, this VR blends style with functionality.",163,79
+5324,Camera CT-534,8,1495.85,This Camera captures professional-quality photos and videos with its advanced sensors and intuitive controls.,24,85
+8017,Camera KU-752,1,917.44,This Camera captures professional-quality photos and videos with its advanced sensors and intuitive controls.,484,14
+4307,E-Reader jw-904,5,1006.95,This E-Reader gives you access to thousands of books in a lightweight and portable device.,377,20
+9280,Game Console zB-722,4,669.08,"An essential electronic device for modern needs, this Game blends style with functionality.",72,72
+4882,Video Camera ef-069,4,893.12,"An essential electronic device for modern needs, this Video blends style with functionality.",421,42
+159,Smartphone FA-761,7,102.22,"This Smartphone features the latest in mobile technology with a stunning display, a high-resolution camera, and a long-lasting battery.",466,20
+8044,E-Reader by-235,3,521.48,This E-Reader gives you access to thousands of books in a lightweight and portable device.,50,88
+688,Drone LQ-473,2,1114.22,"This Drone takes to the skies with ease, capturing stunning aerial footage with its built-in camera.",72,59
+2994,Laptop BQ-569,1,356.35,"This Laptop offers unparalleled performance with its high-speed processor, robust memory, and vivid graphics.",495,11
+12,Smartphone ZU-490,6,1460.7,"This Smartphone features the latest in mobile technology with a stunning display, a high-resolution camera, and a long-lasting battery.",296,52
+1869,Drone NM-179,2,1174.09,"This Drone takes to the skies with ease, capturing stunning aerial footage with its built-in camera.",227,28
+6986,Tablet WT-809,4,1198.17,This Tablet combines the functionality of a computer with the portability of a smartphone.,274,46
+8875,Camera AX-324,5,398.36,This Camera captures professional-quality photos and videos with its advanced sensors and intuitive controls.,321,12
+9415,Drone tr-858,1,986.66,"This Drone takes to the skies with ease, capturing stunning aerial footage with its built-in camera.",155,83
+6963,Mouse Xq-148,8,703.49,This Mouse provides precision and comfort for all your computing needs.,291,59
+1219,Smartwatch Ue-480,5,967.23,This Smartwatch keeps you connected and tracks your fitness with its sleek design and versatile apps.,46,76
+6436,Game Console Ho-257,3,351.84,"An essential electronic device for modern needs, this Game blends style with functionality.",376,35
+5759,Headphones Gj-743,8,1355.49,This Headphones features noise-cancellation technology and high-fidelity sound for an exceptional audio experience.,99,5
+6686,Camera Do-250,4,661.35,This Camera captures professional-quality photos and videos with its advanced sensors and intuitive controls.,67,69
+617,Monitor vF-396,3,884.1,This Monitor boasts crisp visuals and vibrant colors for both gaming and professional tasks.,99,18
+5337,Game Console yB-788,1,181.97,"An essential electronic device for modern needs, this Game blends style with functionality.",93,14
+5963,Microphone rY-791,2,1175.81,"This Microphone captures clear and crisp audio, ideal for podcasting and recording.",485,5
+3687,Camera lu-816,5,969.4,This Camera captures professional-quality photos and videos with its advanced sensors and intuitive controls.,300,92
+5624,Smartphone In-986,8,1235.6,"This Smartphone features the latest in mobile technology with a stunning display, a high-resolution camera, and a long-lasting battery.",287,5
+661,Portable Speaker Ku-396,8,861.91,"An essential electronic device for modern needs, this Portable blends style with functionality.",301,47
+5239,Tablet zJ-519,3,947.58,This Tablet combines the functionality of a computer with the portability of a smartphone.,462,58
+8040,Video Camera PF-989,3,1262.0,"An essential electronic device for modern needs, this Video blends style with functionality.",44,19
+3942,Drone HL-480,1,658.25,"This Drone takes to the skies with ease, capturing stunning aerial footage with its built-in camera.",85,99
+5999,Tablet lI-477,5,143.62,This Tablet combines the functionality of a computer with the portability of a smartphone.,240,22
+2436,Video Camera Pz-814,6,358.96,"An essential electronic device for modern needs, this Video blends style with functionality.",325,15
+5967,Headphones Qy-132,5,494.37,This Headphones features noise-cancellation technology and high-fidelity sound for an exceptional audio experience.,185,40
+1161,Keyboard PZ-098,5,1186.47,This Keyboard enhances your typing with responsive keys and customizable macros.,348,63
+5914,Headphones aj-363,2,73.9,This Headphones features noise-cancellation technology and high-fidelity sound for an exceptional audio experience.,40,16
+4313,Keyboard JW-625,2,1464.61,This Keyboard enhances your typing with responsive keys and customizable macros.,84,25
+6536,Mouse nC-834,6,629.12,This Mouse provides precision and comfort for all your computing needs.,183,35
+8241,Microphone HP-172,3,1102.11,"This Microphone captures clear and crisp audio, ideal for podcasting and recording.",170,88
+8027,Keyboard QF-014,2,1430.95,This Keyboard enhances your typing with responsive keys and customizable macros.,205,66
+3892,Fitness Tracker Fe-411,3,1324.62,"An essential electronic device for modern needs, this Fitness blends style with functionality.",112,51
+6927,Drone cF-494,7,856.41,"This Drone takes to the skies with ease, capturing stunning aerial footage with its built-in camera.",229,73
+876,VR Headset RK-804,4,430.56,"An essential electronic device for modern needs, this VR blends style with functionality.",188,77
+223,Smartphone GV-007,4,241.64,"This Smartphone features the latest in mobile technology with a stunning display, a high-resolution camera, and a long-lasting battery.",378,89
+232,Drone Bo-580,6,314.82,"This Drone takes to the skies with ease, capturing stunning aerial footage with its built-in camera.",116,63
+9407,Portable Speaker iR-021,2,267.44,"An essential electronic device for modern needs, this Portable blends style with functionality.",324,90
+98,Monitor lk-158,7,1237.05,This Monitor boasts crisp visuals and vibrant colors for both gaming and professional tasks.,387,6
+9194,VR Headset WU-789,2,544.04,"An essential electronic device for modern needs, this VR blends style with functionality.",88,69
+2059,Mouse bh-183,3,1455.41,This Mouse provides precision and comfort for all your computing needs.,330,84
+2512,Headphones XD-841,2,1277.95,This Headphones features noise-cancellation technology and high-fidelity sound for an exceptional audio experience.,97,55
+5864,Fitness Tracker Xd-616,6,1417.44,"An essential electronic device for modern needs, this Fitness blends style with functionality.",399,44
+6165,Video Camera lt-147,7,611.83,"An essential electronic device for modern needs, this Video blends style with functionality.",61,60
+1095,Headphones Ir-021,4,1349.17,This Headphones features noise-cancellation technology and high-fidelity sound for an exceptional audio experience.,168,79
+8784,Mouse FA-735,3,550.3,This Mouse provides precision and comfort for all your computing needs.,314,67
+641,Video Camera Xh-894,5,677.15,"An essential electronic device for modern needs, this Video blends style with functionality.",389,1
+7761,Video Camera Ra-952,2,310.8,"An essential electronic device for modern needs, this Video blends style with functionality.",183,40
+4462,VR Headset sH-721,1,1294.08,"An essential electronic device for modern needs, this VR blends style with functionality.",129,20
+1308,Camera TC-210,7,193.92,This Camera captures professional-quality photos and videos with its advanced sensors and intuitive controls.,362,13
+9832,Headphones li-558,1,1020.06,This Headphones features noise-cancellation technology and high-fidelity sound for an exceptional audio experience.,369,61
+4455,Monitor CW-398,1,771.96,This Monitor boasts crisp visuals and vibrant colors for both gaming and professional tasks.,31,74
+7022,E-Reader DX-502,5,846.92,This E-Reader gives you access to thousands of books in a lightweight and portable device.,128,7
+8456,VR Headset zo-349,5,537.95,"An essential electronic device for modern needs, this VR blends style with functionality.",14,9
+2206,Smartwatch Ea-209,4,1483.74,This Smartwatch keeps you connected and tracks your fitness with its sleek design and versatile apps.,348,84
+5382,Tablet ph-814,3,993.32,This Tablet combines the functionality of a computer with the portability of a smartphone.,58,37
+158,Fitness Tracker JS-983,5,1018.56,"An essential electronic device for modern needs, this Fitness blends style with functionality.",290,68
+6892,Fitness Tracker Ai-773,4,1370.66,"An essential electronic device for modern needs, this Fitness blends style with functionality.",134,30
+6290,Smartphone Ac-103,7,210.04,"This Smartphone features the latest in mobile technology with a stunning display, a high-resolution camera, and a long-lasting battery.",72,97
+5188,Keyboard ao-208,5,889.98,This Keyboard enhances your typing with responsive keys and customizable macros.,309,83
+8101,Smartphone aZ-455,8,1148.2,"This Smartphone features the latest in mobile technology with a stunning display, a high-resolution camera, and a long-lasting battery.",379,95
+5141,Game Console Ss-751,6,847.68,"An essential electronic device for modern needs, this Game blends style with functionality.",194,48
+4270,Fitness Tracker RV-985,1,1471.99,"An essential electronic device for modern needs, this Fitness blends style with functionality.",167,2
+8938,Game Console qz-534,1,363.71,"An essential electronic device for modern needs, this Game blends style with functionality.",15,61
+1958,TV MW-471,6,411.77,This TV provides an immersive viewing experience with its ultra-high definition resolution and smart connectivity.,436,18
+1819,Fitness Tracker Bf-719,3,627.02,"An essential electronic device for modern needs, this Fitness blends style with functionality.",245,18
+8559,Drone oQ-469,4,356.76,"This Drone takes to the skies with ease, capturing stunning aerial footage with its built-in camera.",443,12
+9536,E-Reader IH-257,3,1208.91,This E-Reader gives you access to thousands of books in a lightweight and portable device.,146,64
+7635,Fitness Tracker rf-437,6,678.72,"An essential electronic device for modern needs, this Fitness blends style with functionality.",27,80
+3144,Headphones ks-610,7,876.59,This Headphones features noise-cancellation technology and high-fidelity sound for an exceptional audio experience.,66,29
+7177,Microphone Iz-658,4,883.85,"This Microphone captures clear and crisp audio, ideal for podcasting and recording.",297,64
+4755,Video Camera ve-560,4,220.96,"An essential electronic device for modern needs, this Video blends style with functionality.",364,10
+5099,Smartphone fz-821,3,320.43,"This Smartphone features the latest in mobile technology with a stunning display, a high-resolution camera, and a long-lasting battery.",473,28
+5274,Smartwatch Os-911,7,528.05,This Smartwatch keeps you connected and tracks your fitness with its sleek design and versatile apps.,177,5
+4592,VR Headset gu-184,1,1198.67,"An essential electronic device for modern needs, this VR blends style with functionality.",94,58
+9410,Game Console jc-892,8,594.08,"An essential electronic device for modern needs, this Game blends style with functionality.",156,21
+2107,Microphone yw-075,8,854.64,"This Microphone captures clear and crisp audio, ideal for podcasting and recording.",139,77
+6001,Tablet Ii-908,8,1150.41,This Tablet combines the functionality of a computer with the portability of a smartphone.,48,27
+6149,Headphones EB-336,8,1189.75,This Headphones features noise-cancellation technology and high-fidelity sound for an exceptional audio experience.,223,57
+9120,Video Camera sN-372,6,1483.46,"An essential electronic device for modern needs, this Video blends style with functionality.",428,94
+8121,Mouse KN-632,1,330.78,This Mouse provides precision and comfort for all your computing needs.,392,5
+9677,E-Reader uX-827,5,845.49,This E-Reader gives you access to thousands of books in a lightweight and portable device.,460,41
+5619,Microphone DM-404,2,1312.08,"This Microphone captures clear and crisp audio, ideal for podcasting and recording.",104,74
+2323,Smartwatch rk-524,3,163.41,This Smartwatch keeps you connected and tracks your fitness with its sleek design and versatile apps.,85,100
+1530,Microphone Mw-205,2,1056.51,"This Microphone captures clear and crisp audio, ideal for podcasting and recording.",422,2
+1073,Camera Ei-883,7,1184.89,This Camera captures professional-quality photos and videos with its advanced sensors and intuitive controls.,352,5
+1566,Keyboard ZF-045,4,591.2,This Keyboard enhances your typing with responsive keys and customizable macros.,90,7
+9502,Drone jt-847,2,57.03,"This Drone takes to the skies with ease, capturing stunning aerial footage with its built-in camera.",378,90
+3401,Fitness Tracker It-318,5,211.19,"An essential electronic device for modern needs, this Fitness blends style with functionality.",484,23
+1799,Video Camera Em-797,7,1367.5,"An essential electronic device for modern needs, this Video blends style with functionality.",302,12
+5806,Mouse lh-825,8,1451.93,This Mouse provides precision and comfort for all your computing needs.,357,41
+835,VR Headset uk-015,1,895.44,"An essential electronic device for modern needs, this VR blends style with functionality.",379,99
+5564,TV yX-106,8,837.22,This TV provides an immersive viewing experience with its ultra-high definition resolution and smart connectivity.,293,30

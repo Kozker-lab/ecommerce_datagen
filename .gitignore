@@ -1,0 +1,23 @@
+# Ignore compiled files
+*.o
+*.out
+*.exe
+
+# Ignore log files
+*.log
+
+# Ignore package files
+*.tar.gz
+*.zip
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python virtual environment
+.env
+.venv
