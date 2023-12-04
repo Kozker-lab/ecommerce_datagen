@@ -1,10 +1,10 @@
 # Ecommerce Synthetic Data Generation
 
-This project is designed to generate synthetic, but realistic, data for an electronics e-commerce retail store. The data is generated using a Jupyter notebook (`e_commerce_synthetic.ipynb`), which allows for easy modification and execution of the data generation process.
+This project is designed to generate realistic data for an electronics e-commerce retail store. The data is generated using a Jupyter notebook (`e_commerce_synthetic.ipynb`), allowing easy modification and execution of the data generation process.
 
 ## Features
 
-- **Realistic Customer Information**: The Faker library is used to generate realistic customer information, such as names, addresses, and phone numbers.
+- **Realistic Customer Information**: The Faker library generates realistic customer information, such as names, addresses, and phone numbers.
 - **Electronics Products**: The script simulates a variety of electronics products, including TVs, smartphones, laptops, and more.
 - **Order details and Other Information**: The script generates realistic orders data, including quantities, prices, and dates. Inventorylog data, and customer service data has also been generated. Reviews have been generated with the help of OpenAI's `GPT-4` Model.
 
@@ -20,7 +20,7 @@ You need to have Python installed on your machine. You can download Python [here
 
 1. Clone this repository to your local machine.
 ```bash
-git clone https://github.com/git-GB/ecommerce-datagen.git
+git clone https://github.com/git-GB/ecommerce_datagen.git
 ```
 
 2. Navigate to the project directory.
@@ -49,7 +49,7 @@ I am Currently working on more detailed guidelines.
 
 ## Authors
 
-* **Govind Bhat** - [*E-commerce Store Realistic Data Generation*](https://github.com/git-GB/ecommerce-datagen)- [git-GB](https://github.com/git-GB)
+* **Govind Bhat** - [*E-commerce Store Realistic Data Generation*](https://github.com/git-GB/ecommerce_datagen)- [git-GB](https://github.com/git-GB)
 
 ## License
 
