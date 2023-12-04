@@ -86,7 +86,7 @@ pip install -r requirements.txt
 
 ## Authors
 
-* **Govind Bhat** - *E-commerce Store Realistic Data Generation* - [YourUsername](https://github.com/git-GB)
+* **Govind Bhat** - [*E-commerce Store Realistic Data Generation*](https://github.com/git-GB/ecommerce-datagen)- [git-GB](https://github.com/git-GB)
 
 ## License
 
