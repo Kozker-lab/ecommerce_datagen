@@ -61,13 +61,13 @@ You need to have Python installed on your machine. You can download Python [here
 Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/git-GB/ecommerce_data_generator.git
+git clone https://github.com/git-GB/ecommerce_datagen.git
 ```
 
 Navigate to the project directory.
 
 ```bash
-cd your-repo-name
+cd 
 ```
 
 Install the required packages.
