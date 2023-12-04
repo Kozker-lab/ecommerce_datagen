@@ -75,7 +75,7 @@ Install the required packages.
 ```bash
 pip install -r requirements.txt
 ```
-
+```
 ## Built With
 
 * [Python](https://www.python.org/)
