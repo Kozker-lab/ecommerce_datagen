@@ -21,3 +21,14 @@ Thumbs.db
 # Ignore Python virtual environment
 .env
 .venv
+
+# ignore folders
+data/csv
+data/xlsx
+
+# ignore files
+data/csv/*
+data/xlsx/*
+data/*.csv
+data/*.xlsx
+```
