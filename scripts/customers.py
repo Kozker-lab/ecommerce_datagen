@@ -1,4 +1,5 @@
-import imports
+from imports import *
+
 # Initialize Faker to a variable
 fake = Faker()
 
@@ -29,11 +30,5 @@ def generate_customers(num_obs):
             "RegistrationDate": registration_date,
             "LastLogin": last_login
         })
-    return pd.DataFrame(customers_data)
-
-# Generate the data
-customers_df = generate_customers(num_obs)
-
-# Save the data to a CSV file
-csv_file_path = './data/customers.csv'
-customers_df.to_csv(csv_file_path, index=False)
+    customers_df = pd.DataFrame(customers_data)
+    return customers_df
