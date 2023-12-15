@@ -22,13 +22,14 @@ Thumbs.db
 .env
 .venv
 
-# ignore folders
-data/csv
-data/xlsx
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
 
 # ignore files
 data/csv/*
 data/xlsx/*
 data/*.csv
 data/*.xlsx
-```
+
+#ignore code-workspace
+*.code-workspace
