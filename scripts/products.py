@@ -1,11 +1,13 @@
 from imports import *
-
+import string
 # Initialize Faker
 fake = Faker()
 
 # Generate product name based on category name
 def generate_product_name(category_name):
     product_type = category_name.split('&')[0].strip() # Get the first word in the category name
+    if product_type.endswith('s'):
+        product_type = product_type[:-1]
     model_suffix = ''.join(random.choices(string.ascii_uppercase + string.digits, k=3)) # Join 3 random letters and digits
     return f"{product_type} {model_suffix}" # Return the product name
 
@@ -34,8 +36,9 @@ def generate_description(product_name, category_name):
 def generate_products(num_obs, categories_df):
     products_data = [] # Initialize an empty list to store the data
     # Assuming categories_df is a DataFrame containing CategoryID and Name
-    category_list = categories_df['CategoryID'].tolist()  # Get a list of CategoryIDs
-    category_weights = [0.3, 0.18, 0.24, 0.12, 0.10, 0.04, 0.02]  # Weights for each category
+    category_list = [1,2,3,4,5,6,7,8]
+    #category_list = categories_df['CategoryID'].tolist()  # Get a list of CategoryIDs
+    category_weights = [0.3, 0.18, 0.24, 0.09, 0.12, 0.04, 0.01, 0.02]# Weights for each category
 
     for _ in range(num_obs):
         product_id = fake.unique.random_int(min=1, max=9999) # Generate a unique product ID
