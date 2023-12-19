@@ -19,7 +19,7 @@ def generate_order_details(orders_df, n_items, products_df):
     order_details_data = []
     quantity_weights = generate_normalized_list(n_items)
     # Loading the products data to get valid ProductIDs and their prices
-    for _, order in orders_df_loaded.iterrows():
+    for _, order in orders_df.iterrows():
         num_details = random.randint(1, 3)  # Assuming each order has 1 to 3 different products
     
         for _ in range(num_details):

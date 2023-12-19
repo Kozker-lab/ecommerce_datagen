@@ -46,18 +46,20 @@ def generate_order_dates(start_date, end_date, num_dates):
 
     # Combine holiday peak dates and random peak dates
     all_dates = np.concatenate((holiday_peak_dates, random_peak_dates))
-
     # Shuffle and return the dates
     np.random.shuffle(all_dates)
     return all_dates[:num_dates]
 
 
-def generate_order_status(row, current_date):
-    days_since_order = (current_date - row['OrderDate']).days
+def generate_order_status(order_date, current_date):
+    order_date = pd.to_datetime(order_date)
+    current_date = pd.to_datetime(current_date)
+    
+    days_since_order = (current_date - order_date).days
     if days_since_order <= 2:
-        return np.random.choice(['Processing', 'Shipped'], p = [0.7, 0.3])
-    elif days_since_order <=10:
-        return np.random.choice(['Processing', 'Shipped'], p = [0.2, 0.8])
+        return np.random.choice(['Processing', 'Shipped'], p=[0.7, 0.3])
+    elif days_since_order <= 10:
+        return np.random.choice(['Shipped', 'Processing'], p=[0.8, 0.2])
     elif days_since_order <= 25:
         return 'Shipped'
     elif days_since_order <= 30:
@@ -80,12 +82,11 @@ def generate_orders(customers_df, orders_per_customer):
     for i in range(num_orders):
         order_id = fake.unique.random_int(min=1, max=999999) 
         customer_id = random.choice(customers_df['CustomerID'].tolist())  # Select a random customer ID from the previously generated customers data
-        
         orders_data.append({ 
         "OrderID": order_id,
         "CustomerID": customer_id,
         "OrderDate": order_dates[i],
-        "Status": generate_order_status(i, date.today()) 
+        "Status": generate_order_status(order_dates[i], pd.to_datetime(date.today()) )
         })
         
     orders_df = pd.DataFrame(orders_data)
